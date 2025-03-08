@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1741416540 source:d:\4vv22ec191\array\main.c
+
+1741425650 source:d:\4vv22ec191\array\sort.c
+
+1741426645 source:d:\4vv22ec191\array\untitled1.c
+
+1741426637 source:d:\4vv22ec191\array\cmp.c
+	<stdio.h>
+	<string.h>
+

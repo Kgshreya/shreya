@@ -1,25 +1,67 @@
 //#include <stdio.h>
-//#include <stdlib.h>
+//#include <string.h>
+//
+//void rev(char* str1)
+//{
+//    int a,b;
+//    a = 0;
+//    b = strlen(str1) - 1;
+//    char c;
+//
+//
+//    while (a < b)
+//        {
+//
+//        // Swap characters
+//        c = str1[a];
+//        str1[a] = str1[b];
+//        str1[b] = c;
+//
+//        a++;
+//        b--;
+//
+//        }
+//}
+//
+//int main() {
+//    char str1[100] = "123456";
+//    rev(str1);
+//
+//    printf("%s", str1);
+//    return 0;
+//}
+
+//#include <stdio.h>
+//#include <string.h>
+//
+//void rev(char* str1)
+//{
+//    int start=0;
+//    int end=0;
+//
+//    while (str1[end] !='\0')
+//    {
+//        end++;
+//    }
+//    end--;
+//
+//    while(start<end)
+//    {
+//
+//        char temp = str1[start];
+//        str1[start] = str1[end];
+//        str1[end] = temp;
+//        start++;
+//        end--;
+//
+//    }
+//}
 //
 //int main()
 //{
-//    //open a file for writing ("w" mode).
-//    FILE *file = fopen("example.txt","w");
+//    char str1[100] = "123456";
+//    rev(str1);
 //
-//    if (file == NULL)
-//    {
-//        //check if file opened successfully.
-//        printf("error opening file for writing.\n");
-//        return 1;
-//    }
-//
-//    //write to the file.
-//    fprintf(file,"Hello ,world!\n");
-//    fprintf(file,"this is a simple file handling example in c.\n");
-//
-//    //close the file.
-//    fclose(file);
-//
-//    printf("data written to file successfully.\n");
+//    printf("%s", str1);
 //    return 0;
 //}
