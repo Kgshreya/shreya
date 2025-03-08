@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1741405127 source:d:\4vv22ec191\filehandling\main.c
+
+1741406054 source:d:\4vv22ec191\filehandling\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1741406332 source:d:\4vv22ec191\filehandling\10write.c
+
+1741408440 source:d:\4vv22ec191\filehandling\update.c
+
+1741408419 source:d:\4vv22ec191\filehandling\passbook.c
+	<stdio.h>
+	<stdlib.h>
+
